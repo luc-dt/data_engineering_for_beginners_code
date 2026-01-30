@@ -28,20 +28,6 @@ def run_pipeline(orders: List[Dict]):
 
     print("--- Pipeline Completed Successfully ---")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     # Mock data - in a real DE scenario, this would be read from an API or Database
     orders_data = [
