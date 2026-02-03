@@ -42,5 +42,4 @@ if __name__ == "__main__":
         {"customer_id": "C002", "product": "speaker", "quantity": 1, "price": 150.00},
         {"customer_id": "C005", "product": "tablet", "quantity": 1, "price": 399.99}
     ]
-    
     run_pipeline(orders_data)
